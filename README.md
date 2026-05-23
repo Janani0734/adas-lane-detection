@@ -10,7 +10,7 @@ The entire tracking pipeline runs deterministically on host CPU frames without r
 * **Total Frames Processed:** 415 Frames
 * **Processing Footprint:** Sequential Frame-by-Frame Execution
 * **Average Processing Latency:** ~35.4 ms per frame
-* **Final Production Speed:** 28.21 FPS (Verified Real-Time Performance)
+* **Final Production Speed:** 26–28 FPS (CPU-only, verified across multiple operational runs)
 
 ---
 
