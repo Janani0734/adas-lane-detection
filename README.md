@@ -1,5 +1,5 @@
 # Autonomous Vehicle Lane Tracking Pipeline
-
+![Lane Detection Output](output_preview.png)
 A lightweight, real-time computer vision perception pipeline engineered in Python using OpenCV to isolate and track structural highway lane boundaries. This project implements modular geometric feature extraction and localized spatial masking to calculate trajectory indicators dynamically from vehicle dashcam video arrays.
 
 ## 📊 Performance & Hardware Benchmarks
