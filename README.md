@@ -6,7 +6,7 @@ A lightweight, real-time computer vision perception pipeline engineered in Pytho
 
 The entire tracking pipeline runs deterministically on host CPU frames without requiring hardware-accelerated CUDA or GPU dependencies.
 
-* **Dataset Source:** Sample highway dashcam video array (Night conditions)
+* **Dataset Source:** Sample highway dashcam footage (night conditions)
 * **Total Frames Processed:** 415 Frames
 * **Processing Footprint:** Sequential Frame-by-Frame Execution
 * **Average Processing Latency:** ~35.4 ms per frame
